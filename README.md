@@ -174,8 +174,8 @@ Java Training - Day 1
 | Day | Module | Status |
 |---|---|---|
 | Day 1 | Introduction to Java | ✅ Completed |
-| Day 2 | Operators and Expressions | 🔄 In Progress |
-| Day 3 | Conditional Statements | ⬜ Pending |
+| Day 2 | Operators and Expressions | ✅ Completed |
+| Day 3 | Conditional Statements | 🔄 In Progress |
 | Day 4 | Looping Statements | ⬜ Pending |
 | Day 5 | Arrays | ⬜ Pending |
 | Day 6 | Advanced Arrays and Strings | ⬜ Pending |
