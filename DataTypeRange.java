@@ -1,4 +1,5 @@
-public class Byte {
+
+public class DataTypeRange {
     public static void main(String[] args) {
         System.out.println("Byte: " + Byte.MIN_VALUE + " to " + Byte.MAX_VALUE);
         System.out.println("Short: " + Short.MIN_VALUE + " to " + Short.MAX_VALUE);
