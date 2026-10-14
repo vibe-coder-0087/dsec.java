@@ -7,9 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Day_2-Completed-success?style=for-the-badge" alt="Day 2 completed" />
-  <img src="https://img.shields.io/badge/Day_3-In_Progress-blue?style=for-the-badge" alt="Day 3 in progress" />
-  <img src="https://img.shields.io/badge/Progress-20%25-F89820?style=for-the-badge" alt="20 percent complete" />
+  <img src="https://img.shields.io/badge/Day_3-Completed-success?style=for-the-badge" alt="Day 3 completed" />
+  <img src="https://img.shields.io/badge/Day_4-In_Progress-blue?style=for-the-badge" alt="Day 4 in progress" />
+  <img src="https://img.shields.io/badge/Progress-20%25-F89820?style=for-the-badge" alt="30 percent complete" />
 </p>
 
 <p align="center">
@@ -182,8 +182,8 @@ Java Training - Day 1
 |---|---|---|
 | Day 1 | Introduction to Java | ✅ Completed |
 | Day 2 | Operators and Expressions | ✅ Completed |
-| Day 3 | Conditional Statements | 🔄 In Progress |
-| Day 4 | Looping Statements | ⬜ Pending |
+| Day 3 | Conditional Statements | ✅ Completed |
+| Day 4 | Looping Statements | 🔄 In Progress |
 | Day 5 | Arrays | ⬜ Pending |
 | Day 6 | Advanced Arrays and Strings | ⬜ Pending |
 | Day 7 | OOP Basics | ⬜ Pending |
