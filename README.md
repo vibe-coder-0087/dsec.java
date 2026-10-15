@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Day_3-Completed-success?style=for-the-badge" alt="Day 4 completed" />
-  <img src="https://img.shields.io/badge/Day_4.5-In_Progress-blue?style=for-the-badge" alt="Day 5 in waiting" />
+  <img src="https://img.shields.io/badge/Day_4-Completed-success?style=for-the-badge" alt="Day 4 completed" />
+  <img src="https://img.shields.io/badge/Day_5-In_Waiting-blue?style=for-the-badge" alt="Day 5 in waiting" />
   <img src="https://img.shields.io/badge/Progress-20%25-F89820?style=for-the-badge" alt="30 percent complete" />
 </p>
 
