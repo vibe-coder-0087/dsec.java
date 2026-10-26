@@ -2,14 +2,14 @@
 <!-- Animated Java Training Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=750&lines=Welcome+to+Java+Training;Day+4+Completed;Day+5+Waiting;Practice.+Debug.+Improve." alt="Animated Java Training Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=750&lines=Welcome+to+Java+Training;Day+5+Completed;Day+6+Waiting;Practice.+Debug.+Improve." alt="Animated Java Training Header" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Day_4-Completed-success?style=for-the-badge" alt="Day 4 completed" />
-  <img src="https://img.shields.io/badge/Day_5-In_Waiting-blue?style=for-the-badge" alt="Day 5 in waiting" />
-  <img src="https://img.shields.io/badge/Progress-40%25-F89820?style=for-the-badge" alt="40 percent complete" />
+  <img src="https://img.shields.io/badge/Day_5-Completed-success?style=for-the-badge" alt="Day 5 completed" />
+  <img src="https://img.shields.io/badge/Day_6-In_Waiting-blue?style=for-the-badge" alt="Day 6 in waiting" />
+  <img src="https://img.shields.io/badge/Progress-50%25-F89820?style=for-the-badge" alt="50 percent complete" />
 </p>
 
 <p align="center">
