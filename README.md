@@ -196,3 +196,13 @@ Java Training - Day 1
 <p align="center">
   <b>🚀 Consistency is the key to mastering Java!</b>
 </p>
+
+## 🎮 Java Code Runner
+
+Play the mini-game, collect stars, avoid bugs, and beat all five levels!
+
+<p align="center">
+  <a href="https://vibe-coder-0087.github.io/dsec.java/game/">
+    <img src="https://img.shields.io/badge/▶_PLAY_GAME-Java_Code_Runner-orange?style=for-the-badge" alt="Play Java Code Runner">
+  </a>
+</p>
