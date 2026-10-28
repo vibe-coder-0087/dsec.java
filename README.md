@@ -2,7 +2,7 @@
 <!-- Animated Java Training Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=750&lines=Welcome+to+Java+Training;Day+6+Completed;Day+7+Waiting;Practice.+Debug.+Improve." alt="Animated Java Training Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=750&lines=Welcome+to+Java+Training;Day+7+Completed;Day+8+Waiting;Practice.+Debug.+Improve." alt="Animated Java Training Header" />
 </p>
 
 <p align="center">
