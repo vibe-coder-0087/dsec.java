@@ -1,362 +1,603 @@
-# 🎮 JAVA QUEST — The Developer Journey
+# ⚡ JAVA LAB
+### THE NEXT GENERATION OF PROBLEM SOLVERS
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=WELCOME+TO+JAVA+QUEST;LEVEL+UP+YOUR+CODING+SKILLS;THINK.+CODE.+CONQUER.;BECOME+A+JAVA+DEVELOPER." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=WELCOME+TO+JAVA+LAB;ENGINEERING+IDEAS+INTO+CODE;THINK+BEYOND+THE+SYNTAX;BUILD.+BREAK.+REBUILD.;THE+FUTURE+IS+BUILT+WITH+LOGIC." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎮_GAME-JAVA_QUEST-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LANGUAGE-JAVA-orange?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/LEVEL-08-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-800%2F1000-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JAVA-21%2B-00E5FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARNING-ONGOING-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20OOP%20%7C%20JAVA-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>⚡ Every bug is a boss. Every solution is a victory. ⚡</b>
+  <b>Not just learning a programming language. Learning to engineer solutions.</b>
 </p>
 
 ---
 
-## 🕹️ PLAYER PROFILE
+# ◈ 00 — THE COMMAND CENTER
 
-| Attribute | Player Stats |
+```text
+┌──────────────────────────────────────────────────────────┐
+│                 JAVA LAB : SYSTEM ONLINE                 │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  CORE ENGINE       : JAVA                                │
+│  DEVELOPMENT MODE  : ACTIVE                              │
+│  LEARNING MODULES   : 10                                 │
+│  MODULES COMPLETED  : 08                                 │
+│  CURRENT MISSION   : EXCEPTION HANDLING                  │
+│  NEXT DESTINATION  : COLLECTIONS FRAMEWORK               │
+│                                                          │
+│  SYSTEM MESSAGE    : NEVER STOP EXPERIMENTING            │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+**JAVA LAB** is my personal software engineering and learning environment.
+
+This repository documents my journey through Java programming, object-oriented design, algorithms, data structures, debugging and practical development.
+
+The objective is simple:
+
+**Transform programming knowledge into real-world problem-solving ability.**
+
+---
+
+# ◈ 01 — THE TECHNOLOGY ECOSYSTEM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,idea,vscode,eclipse,git,github&theme=dark" />
+</p>
+
+| Domain | Technology |
 |---|---|
-| 🧑‍💻 Character | Java Developer |
-| ⚔️ Current Level | Level 8 |
-| ⭐ Experience | 800 XP |
-| 🏆 Completed Missions | 8 / 10 |
-| 🔥 Training Status | Day 9 Unlocked |
-| 🎯 Next Mission | Exception Handling |
-
-### XP PROGRESS
-
-`████████░░` **80%**
+| Programming Language | Java |
+| IDE & Development | IntelliJ IDEA, VS Code |
+| Version Control | Git, GitHub |
+| Core Programming | OOP, Exception Handling |
+| Problem Solving | Algorithms, DSA |
+| Future Exploration | JDBC, SQL, Spring Boot |
 
 ---
 
-# 🗺️ WORLD MAP — JAVA TRAINING
+# ◈ 02 — THE LEARNING UNIVERSE
 
-Choose your mission and explore the Java world!
+<details>
+<summary><b>01 / FOUNDATION ENGINE</b> — Java Fundamentals ✅</summary>
 
-<details open>
-<summary>🟠 LEVEL 01 — Java Fundamentals ✅</summary>
+**Mission:** Understand how Java works.
 
 - Introduction to Java
 - Features of Java
 - JDK, JRE and JVM
-- Installation
-- Java Program Structure
-- Variables and Data Types
-- Input and Output
-- First Java Program
+- Installation and configuration
+- Java program structure
+- Variables and data types
+- Input and output
 
-🏆 Reward: 100 XP
+**Core outcome:** Writing and executing Java programs.
 
 </details>
 
 <details>
-<summary>🟡 LEVEL 02 — Operator Arena ✅</summary>
+<summary><b>02 / LOGIC ENGINE</b> — Operators & Expressions ✅</summary>
 
-- Arithmetic Operators
-- Relational Operators
-- Logical Operators
-- Assignment Operators
-- Unary Operators
-- Ternary Operator
-- Type Casting
+**Mission:** Build mathematical and logical thinking.
+
+- Arithmetic operators
+- Relational operators
+- Logical operators
+- Assignment operators
+- Unary operators
+- Ternary operators
+- Type casting
 - Expressions
 
-🏆 Reward: 100 XP
+**Core outcome:** Developing logical expressions and calculations.
 
 </details>
 
 <details>
-<summary>🟢 LEVEL 03 — Decision Master ✅</summary>
+<summary><b>03 / DECISION ENGINE</b> — Conditional Statements ✅</summary>
 
-- if Statement
-- if-else Statement
-- else-if Statement
+**Mission:** Teach programs to make decisions.
+
+- if and if-else
+- else-if ladder
 - Nested if
-- switch Statement
+- switch statements
 
-🏆 Reward: 100 XP
+**Core outcome:** Creating decision-based applications.
 
 </details>
 
 <details>
-<summary>🔵 LEVEL 04 — Loop Dungeon ✅</summary>
+<summary><b>04 / ITERATION ENGINE</b> — Loops & Patterns ✅</summary>
 
-- for Loop
-- while Loop
-- do-while Loop
-- Nested Loops
-- Pattern Programs
+**Mission:** Automate repetitive operations.
+
+- for loop
+- while loop
+- do-while loop
+- Nested loops
+- Pattern programming
 - break and continue
 
-🏆 Reward: 100 XP
+**Core outcome:** Repetition, iteration and control flow.
 
 </details>
 
 <details>
-<summary>🟣 LEVEL 05 — Array Kingdom ✅</summary>
+<summary><b>05 / DATA ENGINE</b> — Arrays ✅</summary>
 
-- Single Dimensional Arrays
-- Array Initialization
-- Traversing Arrays
-- Searching
-- Largest and Smallest Elements
+**Mission:** Organize and manipulate collections of data.
 
-🏆 Reward: 100 XP
+- One-dimensional arrays
+- Array initialization
+- Array traversal
+- Searching techniques
+- Largest and smallest elements
 
-</details>
-
-<details>
-<summary>🔴 LEVEL 06 — String & Matrix World ✅</summary>
-
-- 2D Arrays
-- Matrix Operations
-- Introduction to Strings
-- String Methods
-- String Programs
-
-🏆 Reward: 100 XP
+**Core outcome:** Efficient data processing.
 
 </details>
 
 <details>
-<summary>🟤 LEVEL 07 — OOP Universe ✅</summary>
+<summary><b>06 / MATRIX & TEXT ENGINE</b> — Strings and Matrices ✅</summary>
 
-- Classes and Objects
+**Mission:** Work with structured data and text.
+
+- Two-dimensional arrays
+- Matrix operations
+- String introduction
+- String methods
+- String manipulation
+
+**Core outcome:** Matrix-based and text-based programming.
+
+</details>
+
+<details>
+<summary><b>07 / OBJECT ENGINE</b> — Object-Oriented Programming ✅</summary>
+
+**Mission:** Understand the architecture behind object-oriented software.
+
+- Classes and objects
 - Constructors
-- this Keyword
-- Static Variables, Methods and Blocks
-- Method Overloading
-- Access Modifiers
+- this keyword
+- Static variables and methods
+- Method overloading
+- Access modifiers
 - Encapsulation
-- Getters and Setters
+- Getters and setters
 
-🏆 Reward: 100 XP
+**Core outcome:** Designing reusable and structured programs.
 
 </details>
 
 <details>
-<summary>⚫ LEVEL 08 — Inheritance & Polymorphism ✅</summary>
+<summary><b>08 / ARCHITECTURE ENGINE</b> — Advanced OOP ✅</summary>
 
-- Types of Inheritance
-- super Keyword
-- Method Overriding
-- Compile-time and Runtime Polymorphism
-- final Keyword
-- Abstract Classes
+**Mission:** Build flexible and extensible software structures.
+
+- Inheritance
+- Types of inheritance
+- super keyword
+- Method overriding
+- Compile-time and runtime polymorphism
+- final keyword
+- Abstract classes
 - Interfaces
 - Packages
 
-🏆 Reward: 100 XP
+**Core outcome:** Understanding software architecture and reusable components.
 
 </details>
 
 <details>
-<summary>🔷 LEVEL 09 — Exception Handling 🔓 NEXT MISSION</summary>
+<summary><b>09 / ERROR CONTROL ENGINE</b> — Exception Handling 🔄</summary>
 
-- Checked and Unchecked Exceptions
-- try-catch-finally
-- Multiple Catch
+**Mission:** Build programs that handle unexpected situations.
+
+- Checked and unchecked exceptions
+- try, catch and finally
+- Multiple catch blocks
 - throw and throws
-- Custom Exceptions
-- Wrapper Classes
-- Autoboxing and Unboxing
+- Custom exceptions
+- Wrapper classes
+- Autoboxing and unboxing
 - StringBuilder and StringBuffer
 
-🎯 Mission: Learn how to handle errors without crashing your program.
-
-🏆 Reward: 100 XP
+**Core outcome:** Reliable and robust application development.
 
 </details>
 
 <details>
-<summary>🟩 LEVEL 10 — Collections Final Boss 🔒</summary>
+<summary><b>10 / DATA STRUCTURE ENGINE</b> — Collections Framework 🔒</summary>
 
-- Collection Hierarchy
+**Mission:** Master advanced data organization.
+
+- Collection hierarchy
 - ArrayList and LinkedList
 - HashSet and TreeSet
 - HashMap and TreeMap
 - Iterator
 - Comparable and Comparator
 - Generics
-- Collection Programs
 
-👑 Final Mission: Master the Java Collections Framework.
-
-🏆 Reward: 100 XP
+**Core outcome:** Working with flexible and efficient data structures.
 
 </details>
 
 ---
 
-# 🎮 MINI GAME ZONE
+# ◈ 03 — ALGORITHM VISUAL LAB
 
-## 🧠 GAME 01 — Guess the Output
+Algorithms are not just code. They are different ways of thinking.
 
-Can you predict what this Java program prints?
+## Sorting laboratory
+
+| Algorithm | Approach | Complexity |
+|---|---|---|
+| Bubble Sort | Adjacent swapping | O(n²) |
+| Insertion Sort | Position-based insertion | O(n²) |
+| Selection Sort | Minimum selection | O(n²) |
+
+## Searching laboratory
+
+| Algorithm | Approach | Complexity |
+|---|---|---|
+| Linear Search | Sequential checking | O(n) |
+| Binary Search | Divide and conquer | O(log n) |
+
+## Experiment: How sorting works
+
+**Initial data**
+
+```text
+[5, 3, 8, 1, 2]
+```
+
+**After sorting**
+
+```text
+[1, 2, 3, 5, 8]
+```
+
+**The algorithm transforms unsorted data into an ordered sequence.**
+
+---
+
+# ◈ 04 — THE EXPERIMENT CHAMBER
+
+Every experiment includes source code, expected output and the underlying concept.
+
+### EXP-001 / BUBBLE SORT
 
 ```java
 public class Main {
     public static void main(String[] args) {
-        int x = 5;
 
-        for (int i = 1; i <= 3; i++) {
-            x += i;
+        int[] arr = {5, 3, 8, 1, 2};
+
+        for (int i = 0; i < arr.length - 1; i++) {
+
+            for (int j = 0; j < arr.length - i - 1; j++) {
+
+                if (arr[j] > arr[j + 1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
         }
 
-        System.out.println(x);
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
     }
 }
 ```
 
+**OUTPUT**
+
+```text
+1 2 3 5 8
+```
+
 <details>
-<summary>🔓 Reveal Answer</summary>
+<summary>🧠 Understand the experiment</summary>
+
+Bubble Sort compares adjacent elements and swaps them when they are in the wrong order.
+
+After each complete pass, the largest remaining element moves to its correct position.
+
+</details>
+
+### EXP-002 / BINARY SEARCH
+
+```java
+public class Main {
+    public static void main(String[] args) {
+
+        int[] arr = {10, 20, 30, 40, 50};
+        int target = 30;
+
+        int low = 0;
+        int high = arr.length - 1;
+
+        while (low <= high) {
+
+            int mid = (low + high) / 2;
+
+            if (arr[mid] == target) {
+                System.out.println("Found at index: " + mid);
+                break;
+            } else if (arr[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+    }
+}
+```
+
+**OUTPUT**
+
+```text
+Found at index: 2
+```
+
+<details>
+<summary>🧠 Understand the experiment</summary>
+
+Binary Search works on sorted arrays. It repeatedly divides the search interval into two halves until the target is found or the interval becomes empty.
+
+</details>
+
+---
+
+# ◈ 05 — BUG HUNTER / INTERACTIVE CHALLENGES
+
+A developer should know how to find errors, not just write code.
+
+### CHALLENGE 001 — FIND THE BUG
+
+```java
+int a = 10;
+
+if (a = 10) {
+    System.out.println("Success");
+}
+```
+
+<details>
+<summary>🔓 Reveal the solution</summary>
+
+The comparison operator is incorrect.
+
+```java
+if (a == 10) {
+    System.out.println("Success");
+}
+```
+
+`==` checks equality. `=` performs assignment.
+
+</details>
+
+### CHALLENGE 002 — PREDICT THE OUTPUT
+
+```java
+int x = 5;
+
+for (int i = 1; i <= 3; i++) {
+    x += i;
+}
+
+System.out.println(x);
+```
+
+<details>
+<summary>🔓 Reveal the output</summary>
 
 ```text
 11
 ```
 
-Explanation: 5 + 1 + 2 + 3 = 11.
+Calculation: 5 + 1 + 2 + 3 = 11.
 
 </details>
 
----
+### CHALLENGE 003 — THINK LIKE A DEVELOPER
 
-## ⚔️ GAME 02 — Find the Bug
+What happens when you divide an integer by zero in Java?
 
-Something is wrong with this program. Can you fix it?
+<details>
+<summary>🔓 Reveal the answer</summary>
+
+Java throws an `ArithmeticException`.
 
 ```java
-public class Main {
-    public static void main(String[] args) {
-        int a = 10;
-
-        if (a = 10) {
-            System.out.println("Victory!");
-        }
-    }
-}
-```
-
-<details>
-<summary>🔓 Reveal Solution</summary>
-
-Use `==` instead of `=`.
-
-```java
-if (a == 10) {
-    System.out.println("Victory!");
-}
+int result = 10 / 0;
 ```
 
 </details>
 
 ---
 
-## 🎯 GAME 03 — Java Quick Quiz
+# ◈ 06 — INNOVATION & PROJECT WORKSHOP
 
-**Question 1:** Which keyword is used to inherit a class?
+The real purpose of learning programming is to create something useful.
 
-<details>
-<summary>Show Answer</summary>
+These are project directions for applying the concepts learned in Java.
 
-`extends`
-
-</details>
-
-**Question 2:** Which method is the entry point of a Java program?
-
-<details>
-<summary>Show Answer</summary>
-
-`public static void main(String[] args)`
-
-</details>
-
-**Question 3:** Which collection does not allow duplicate elements?
+| Project | Core Concepts | Impact |
+|---|---|---|
+| Student Management System | OOP, Collections | Organize student records |
+| Banking Simulation | Classes, Methods | Simulate basic banking operations |
+| Library Management System | Collections, OOP | Manage books and borrowers |
+| Quiz Application | Conditions, Arrays | Interactive learning |
+| Expense Tracker | Collections, File Handling | Track personal expenses |
+| Password Validator | Strings, Conditions | Validate password rules |
 
 <details>
-<summary>Show Answer</summary>
+<summary>🚀 Future project roadmap</summary>
 
-`Set`
+**PHASE 01 — Core Java**
 
-</details>
+- Console-based applications
+- Menu-driven programs
+- File handling
 
-**Question 4:** Which keyword is used to handle exceptions?
+**PHASE 02 — Database Integration**
 
-<details>
-<summary>Show Answer</summary>
+- JDBC
+- MySQL
+- CRUD operations
 
-`try` and `catch`
+**PHASE 03 — Application Development**
+
+- Spring Boot
+- REST APIs
+- Backend development
+
+**PHASE 04 — Real-World Engineering**
+
+- Authentication
+- Database architecture
+- Testing
+- Deployment
 
 </details>
 
 ---
 
-## 🏆 GAME 04 — BOSS BATTLE
+# ◈ 07 — KNOWLEDGE VAULT
 
-Complete these coding challenges to earn XP!
+<details>
+<summary>What is the difference between == and equals()?</summary>
 
-| Boss | Challenge | XP |
-|---|---|---:|
-| 🟢 Slime | Print even numbers from 1–100 | 20 |
-| 🔵 Goblin | Find the largest array element | 30 |
-| 🟣 Knight | Implement Bubble Sort | 40 |
-| 🔴 Dragon | Implement Binary Search | 50 |
-| 👑 Final Boss | Build a Student Management System | 100 |
+`==` compares primitive values or object references.
+
+`equals()` checks logical equality according to the implementation of the object's class.
+
+</details>
+
+<details>
+<summary>What is encapsulation?</summary>
+
+Encapsulation combines data and methods within a class and controls access to internal data.
+
+</details>
+
+<details>
+<summary>What is polymorphism?</summary>
+
+Polymorphism allows the same interface or method name to represent different behaviors.
+
+</details>
+
+<details>
+<summary>Abstract class vs Interface?</summary>
+
+An abstract class can have constructors, instance fields and implemented methods.
+
+An interface defines a contract and can include abstract, default, static and private methods.
+
+</details>
 
 ---
 
-# 💻 MY CODE ARENA
+# ◈ 08 — IMPACT BOARD
 
-Store your daily Java programs here.
-
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Welcome to Java Quest!");
-        System.out.println("Level Up Your Coding Skills!");
-    }
-}
-```
-
-**Output**
-
-```text
-Welcome to Java Quest!
-Level Up Your Coding Skills!
-```
-
----
-
-# 📊 PLAYER ACHIEVEMENTS
+**Progress is measured by what you can understand, solve and build.**
 
 | Achievement | Status |
 |---|---|
-| 🥉 Java Beginner | 🏆 Unlocked |
-| 🥈 Loop Master | 🏆 Unlocked |
-| 🥇 Array Explorer | 🏆 Unlocked |
-| 💎 OOP Warrior | 🏆 Unlocked |
-| ⚡ Exception Hunter | 🔒 Locked |
-| 👑 Collection Champion | 🔒 Locked |
+| Java Fundamentals | ✅ |
+| Logical Programming | ✅ |
+| Conditional Logic | ✅ |
+| Loop Mastery | ✅ |
+| Array Processing | ✅ |
+| String Manipulation | ✅ |
+| Object-Oriented Programming | ✅ |
+| Advanced OOP | ✅ |
+| Exception Handling | 🔄 |
+| Collections Framework | 🔒 |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARNING_PROGRESS-80%25-00E5FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>08 / 10 LEARNING MODULES COMPLETED</b>
+</p>
 
 ---
 
-# 🚀 FINAL MISSION
+# ◈ 09 — THE ENGINEERING PHILOSOPHY
+
+```text
+01  THINK BEFORE YOU CODE.
+02  UNDERSTAND BEFORE YOU IMPLEMENT.
+03  SIMPLIFY BEFORE YOU OPTIMIZE.
+04  TEST BEFORE YOU TRUST.
+05  DEBUG BEFORE YOU GIVE UP.
+06  BUILD BEFORE YOU BRAG.
+07  IMPROVE EVERY SINGLE DAY.
+```
+
+### The development cycle
+
+```text
+        PROBLEM
+           |
+           v
+        ANALYSIS
+           |
+           v
+         LOGIC
+           |
+           v
+          CODE
+           |
+           v
+         TESTING
+           |
+           v
+         DEBUGGING
+           |
+           v
+        SOLUTION
+           |
+           └──────> IMPROVEMENT
+```
+
+---
+
+# ◈ 10 — THE NEXT CHAPTER
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=F89820&center=true&vCenter=true&width=650&lines=KEEP+CODING;NEVER+STOP+LEARNING;NEXT+LEVEL+LOADING..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=THE+JOURNEY+IS+NOT+OVER.;MORE+PROBLEMS.+MORE+SOLUTIONS.;MORE+EXPERIMENTS.+MORE+INNOVATION.;BUILDING+THE+NEXT+VERSION..." />
 </p>
 
 <p align="center">
-  <b>Practice. Debug. Improve. Repeat.</b><br/>
-  <i>One developer. Ten levels. Endless possibilities.</i>
+  <b>JAVA LAB — WHERE LOGIC BECOMES POSSIBILITY.</b>
 </p>
 
 <p align="center">
-  ⭐ If you like this journey, give this repository a star!
+  <i>Learn it. Experiment with it. Build something that matters.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:172554,100:8A2BE2&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>JAVA LAB © 2026 | ENGINEER YOUR THINKING.</b>
 </p>
