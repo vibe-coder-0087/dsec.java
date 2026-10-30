@@ -4,6 +4,7 @@ class Student {
     String dept;
     int mark1;
     int mark2;
+    public int age;
 
     public static void main(String[] args) {
 
