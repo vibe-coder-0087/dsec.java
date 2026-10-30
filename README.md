@@ -1,42 +1,61 @@
-
-<!-- Animated Java Training Header -->
+# 🎮 JAVA QUEST — The Developer Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=750&lines=Welcome+to+Java+Training;Day+8+Completed;Day+9+Waiting;Practice.+Debug.+Improve." alt="Animated Java Training Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=WELCOME+TO+JAVA+QUEST;LEVEL+UP+YOUR+CODING+SKILLS;THINK.+CODE.+CONQUER.;BECOME+A+JAVA+DEVELOPER." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Day_8-Completed-success?style=for-the-badge" alt="Day 8 completed" />
-  <img src="https://img.shields.io/badge/Day_9-In_Waiting-blue?style=for-the-badge" alt="Day 9 in waiting" />
-  <img src="https://img.shields.io/badge/Progress-80%25-F89820?style=for-the-badge" alt="80 percent complete" />
+  <img src="https://img.shields.io/badge/🎮_GAME-JAVA_QUEST-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGUAGE-JAVA-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/LEVEL-08-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XP-800%2F1000-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>Learn Java. Write code. Build skills every day.</i>
+  <b>⚡ Every bug is a boss. Every solution is a victory. ⚡</b>
 </p>
 
 ---
 
+## 🕹️ PLAYER PROFILE
 
-## 📚 Training Modules
+| Attribute | Player Stats |
+|---|---|
+| 🧑‍💻 Character | Java Developer |
+| ⚔️ Current Level | Level 8 |
+| ⭐ Experience | 800 XP |
+| 🏆 Completed Missions | 8 / 10 |
+| 🔥 Training Status | Day 9 Unlocked |
+| 🎯 Next Mission | Exception Handling |
+
+### XP PROGRESS
+
+`████████░░` **80%**
+
+---
+
+# 🗺️ WORLD MAP — JAVA TRAINING
+
+Choose your mission and explore the Java world!
 
 <details open>
-<summary><b>🟠 T1 — Day 1: Introduction to Java</b></summary>
+<summary>🟠 LEVEL 01 — Java Fundamentals ✅</summary>
 
 - Introduction to Java
 - Features of Java
-- JDK, JRE, and JVM
+- JDK, JRE and JVM
 - Installation
-- Structure of a Java Program
+- Java Program Structure
 - Variables and Data Types
-- Input & Output
+- Input and Output
 - First Java Program
+
+🏆 Reward: 100 XP
 
 </details>
 
 <details>
-<summary><b>🟡 T2 — Day 2: Operators and Expressions</b></summary>
+<summary>🟡 LEVEL 02 — Operator Arena ✅</summary>
 
 - Arithmetic Operators
 - Relational Operators
@@ -47,10 +66,12 @@
 - Type Casting
 - Expressions
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🟢 T3 — Day 3: Conditional Statements</b></summary>
+<summary>🟢 LEVEL 03 — Decision Master ✅</summary>
 
 - if Statement
 - if-else Statement
@@ -58,10 +79,12 @@
 - Nested if
 - switch Statement
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🔵 T4 — Day 4: Looping Statements</b></summary>
+<summary>🔵 LEVEL 04 — Loop Dungeon ✅</summary>
 
 - for Loop
 - while Loop
@@ -70,10 +93,12 @@
 - Pattern Programs
 - break and continue
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🟣 T5 — Day 5: Arrays</b></summary>
+<summary>🟣 LEVEL 05 — Array Kingdom ✅</summary>
 
 - Single Dimensional Arrays
 - Array Initialization
@@ -81,10 +106,12 @@
 - Searching
 - Largest and Smallest Elements
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🔴 T6 — Day 6: Advanced Arrays and Strings</b></summary>
+<summary>🔴 LEVEL 06 — String & Matrix World ✅</summary>
 
 - 2D Arrays
 - Matrix Operations
@@ -92,24 +119,28 @@
 - String Methods
 - String Programs
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🟤 T7 — Day 7: OOP Basics</b></summary>
+<summary>🟤 LEVEL 07 — OOP Universe ✅</summary>
 
 - Classes and Objects
 - Constructors
 - this Keyword
-- Static Variables, Methods, and Blocks
+- Static Variables, Methods and Blocks
 - Method Overloading
 - Access Modifiers
 - Encapsulation
 - Getters and Setters
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>⚫ T8 — Day 8: Inheritance and Polymorphism</b></summary>
+<summary>⚫ LEVEL 08 — Inheritance & Polymorphism ✅</summary>
 
 - Types of Inheritance
 - super Keyword
@@ -120,10 +151,12 @@
 - Interfaces
 - Packages
 
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🔷 T9 — Day 9: Exception Handling</b></summary>
+<summary>🔷 LEVEL 09 — Exception Handling 🔓 NEXT MISSION</summary>
 
 - Checked and Unchecked Exceptions
 - try-catch-finally
@@ -134,62 +167,196 @@
 - Autoboxing and Unboxing
 - StringBuilder and StringBuffer
 
+🎯 Mission: Learn how to handle errors without crashing your program.
+
+🏆 Reward: 100 XP
+
 </details>
 
 <details>
-<summary><b>🟩 T10 — Day 10: Collections Framework</b></summary>
+<summary>🟩 LEVEL 10 — Collections Final Boss 🔒</summary>
 
 - Collection Hierarchy
-- List: ArrayList, LinkedList
-- Set: HashSet, TreeSet
-- Map: HashMap, TreeMap
+- ArrayList and LinkedList
+- HashSet and TreeSet
+- HashMap and TreeMap
 - Iterator
 - Comparable and Comparator
 - Generics
 - Collection Programs
 
+👑 Final Mission: Master the Java Collections Framework.
+
+🏆 Reward: 100 XP
+
 </details>
 
 ---
 
-## 💻 Code Display Template
+# 🎮 MINI GAME ZONE
 
-Use this format inside each day's section to display your actual Java code with syntax highlighting.
+## 🧠 GAME 01 — Guess the Output
 
-### Example: First Java Program
+Can you predict what this Java program prints?
 
 ```java
-public class HelloWorld {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println("Java Training - Day 1");
+        int x = 5;
+
+        for (int i = 1; i <= 3; i++) {
+            x += i;
+        }
+
+        System.out.println(x);
     }
 }
 ```
 
-### Output
+<details>
+<summary>🔓 Reveal Answer</summary>
 
 ```text
-Hello, World!
-Java Training - Day 1
+11
+```
+
+Explanation: 5 + 1 + 2 + 3 = 11.
+
+</details>
+
+---
+
+## ⚔️ GAME 02 — Find the Bug
+
+Something is wrong with this program. Can you fix it?
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        int a = 10;
+
+        if (a = 10) {
+            System.out.println("Victory!");
+        }
+    }
+}
+```
+
+<details>
+<summary>🔓 Reveal Solution</summary>
+
+Use `==` instead of `=`.
+
+```java
+if (a == 10) {
+    System.out.println("Victory!");
+}
+```
+
+</details>
+
+---
+
+## 🎯 GAME 03 — Java Quick Quiz
+
+**Question 1:** Which keyword is used to inherit a class?
+
+<details>
+<summary>Show Answer</summary>
+
+`extends`
+
+</details>
+
+**Question 2:** Which method is the entry point of a Java program?
+
+<details>
+<summary>Show Answer</summary>
+
+`public static void main(String[] args)`
+
+</details>
+
+**Question 3:** Which collection does not allow duplicate elements?
+
+<details>
+<summary>Show Answer</summary>
+
+`Set`
+
+</details>
+
+**Question 4:** Which keyword is used to handle exceptions?
+
+<details>
+<summary>Show Answer</summary>
+
+`try` and `catch`
+
+</details>
+
+---
+
+## 🏆 GAME 04 — BOSS BATTLE
+
+Complete these coding challenges to earn XP!
+
+| Boss | Challenge | XP |
+|---|---|---:|
+| 🟢 Slime | Print even numbers from 1–100 | 20 |
+| 🔵 Goblin | Find the largest array element | 30 |
+| 🟣 Knight | Implement Bubble Sort | 40 |
+| 🔴 Dragon | Implement Binary Search | 50 |
+| 👑 Final Boss | Build a Student Management System | 100 |
+
+---
+
+# 💻 MY CODE ARENA
+
+Store your daily Java programs here.
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Java Quest!");
+        System.out.println("Level Up Your Coding Skills!");
+    }
+}
+```
+
+**Output**
+
+```text
+Welcome to Java Quest!
+Level Up Your Coding Skills!
 ```
 
 ---
 
-## 📈 Training Progress
+# 📊 PLAYER ACHIEVEMENTS
 
-| Day | Module | Status |
-|---|---|---|
-| Day 1 | Introduction to Java | ✅ Completed |
-| Day 2 | Operators and Expressions | ✅ Completed |
-| Day 3 | Conditional Statements | ✅ Completed |
-| Day 4 | Looping Statements | 🔄 In Progress |
-| Day 5 | Arrays | ⬜ Pending |
-| Day 6 | Advanced Arrays and Strings | ⬜ Pending |
-| Day 7 | OOP Basics | ⬜ Pending |
-| Day 8 | Inheritance and Polymorphism | ⬜ Pending |
-| Day 9 | Exception Handling | ⬜ Pending |
-| Day 10 | Collections Framework | ⬜ Pending |
+| Achievement | Status |
+|---|---|
+| 🥉 Java Beginner | 🏆 Unlocked |
+| 🥈 Loop Master | 🏆 Unlocked |
+| 🥇 Array Explorer | 🏆 Unlocked |
+| 💎 OOP Warrior | 🏆 Unlocked |
+| ⚡ Exception Hunter | 🔒 Locked |
+| 👑 Collection Champion | 🔒 Locked |
 
 ---
 
+# 🚀 FINAL MISSION
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=F89820&center=true&vCenter=true&width=650&lines=KEEP+CODING;NEVER+STOP+LEARNING;NEXT+LEVEL+LOADING..." />
+</p>
+
+<p align="center">
+  <b>Practice. Debug. Improve. Repeat.</b><br/>
+  <i>One developer. Ten levels. Endless possibilities.</i>
+</p>
+
+<p align="center">
+  ⭐ If you like this journey, give this repository a star!
+</p>
